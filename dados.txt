@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome : Edson Ricardo Czarneski
+-Profiss√£o: Analista de Sistemas
+-Cidade: Pinhal„o
+-O que faz nas horas vaga: Gosto de assistir filmes
+-Feedback sobre o curso Qualidade de Software: Muito bom, estou aprendendo muito sobre a quest„o de engenharia de software.
+-Feedback sobre a plataforma de estudo da EBAC: F·cil de usar, me ajuda a ter um bom programa de aprendizado.
+
+Obrigado!!!
+
+
